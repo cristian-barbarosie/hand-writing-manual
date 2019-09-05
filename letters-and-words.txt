@@ -1,0 +1,43 @@
+
+intre paranteze inseamna ca nu apare cuvantul scris (inca nu avem toate literele)
+un cuvant urmat de "-" (minus) a fost deja inclus in document
+un cuvant urmat de "+" (plus) a fost inclus si ilustrat cu desen
+
+--------------------------------------------------------------------------
+
+c  (cow)
+
+a  (apple)
+
+t  (tower)
+cat+
+
+e  (elephant)
+
+n  (nest)
+net+  ten+  an-
+tent+   can-
+
+d  (dinosaur)
+and-  end-  tend  date-
+
+u  (unicorn)
+nut  cute		acute  dune  tune  tuned  cut  tuna
+
+l  (lion)
+let  lend  land
+
+ea
+tea+  eat-  clean  neat
+
+m  (monkey)
+calm  mute  mud  mad
+
+ee
+meet  need  teen
+
+ll
+dull  call  null  mall  tall
+
+nn
+tunnel  canned tuna
