@@ -1,4 +1,6 @@
 
+2021.06.22
+
 intre paranteze inseamna ca nu apare cuvantul scris (inca nu avem toate literele)
 un cuvant urmat de "-" (minus) a fost deja inclus in document
 un cuvant urmat de "+" (plus) a fost inclus si ilustrat cu desen
